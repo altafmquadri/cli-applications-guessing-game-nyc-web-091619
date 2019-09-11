@@ -14,7 +14,7 @@ def run_guessing_game
         
   
   end
-  binding.pry
+  nding.pry
   end
     
 end
