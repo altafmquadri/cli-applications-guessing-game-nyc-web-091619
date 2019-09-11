@@ -14,7 +14,6 @@ def run_guessing_game
         
   
   end
-  nding.pry
   end
     
 end
