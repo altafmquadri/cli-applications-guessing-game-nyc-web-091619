@@ -1,3 +1,5 @@
+require 'pry'
 def run_guessing_game
-  guess = rand(6) + 1  
+  guess = rand(6) + 1
+  binding.pry
 end
